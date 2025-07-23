@@ -15,7 +15,7 @@
 
 check out my repos for:
 - a beginner-friendly **linux firewall project**  
-- experiments with **debian on mac M1**  
+- experiments with **debian on mac M3**  
 - more projects to come  
 
 ---
