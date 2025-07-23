@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">hey, i’m asma 🌷</h1>
+<p align="center">aspiring cybersecurity analyst 💻🔐 | linux enthusiast 🐧 | macbook power user ☁️</p>
 
-<!--
-**asmamanzoor1/asmamanzoor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💫 about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛡️ currently learning cybersecurity & linux server management  
+- 🧠 curious about ethical hacking & digital privacy
+- 👩‍💻 on the path to obtaining my certs  
+
+---
+
+### 📁 featured projects
+
+check out my repos for:
+- a beginner-friendly **linux firewall project**  
+- experiments with **debian on mac M1**  
+- more projects to come  
+
+---
+
+### 🧷 connect with me
+
+[💌 linkedin](https://www.linkedin.com/in/https://www.linkedin.com/in/asmamanzoor1/)  
+[🌐 personal website (soon!)](https://yourlink.com)  
+
+---
+
+### 🌙 
+
+> ☁️ From curiosity to code — I’m just getting started.
