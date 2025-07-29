@@ -24,7 +24,6 @@ check out my repos for:
 ### 🧷 connect with me
 
 [💌 linkedin](https://www.linkedin.com/in/asmamanzoor1/)  
-[🌐 personal website (soon!)](https://yourlink.com)  
 
 ---
 
