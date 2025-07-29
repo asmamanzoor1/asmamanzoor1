@@ -7,7 +7,8 @@
 
 - 🛡️ currently learning cybersecurity & linux server management  
 - 🧠 curious about ethical hacking & digital privacy
-- 👩‍💻 on the path to obtaining my certs  
+- 👩‍💻 on the path to obtaining my certs
+- 🛡️ also learning about data analytics & product management
 
 ---
 
